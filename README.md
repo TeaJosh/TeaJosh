@@ -1,30 +1,19 @@
-# 👋 Hi, I'm Tejosh Rana
+# Hi 👋, I'm Tejosh Rana
 
-I'm an aspiring data analyst with hands-on experience in Python and R, currently expanding my skills across the full data analysis workflow. I'm learning how to collect, clean, analyze, and visualize data using the tools and techniques commonly used in real-world analytics. My focus is on strengthening my foundations in Excel, SQL, descriptive statistics, data manipulation, and clear insight communication.
+I build web interfaces with HTML, CSS, and JavaScript, and I'm currently sharpening my fundamentals before moving into React. I like learning by building — most of what's below reflects skills I'm actively working through in real projects.
 
-## 📘 What I'm Learning Right Now
+- 🌱 I'm currently learning **Vanilla JavaScript fundamentals before moving into React
+Responsive design and modern CSS layout (Flexbox/Grid)
+Git & GitHub workflows
+Accessibility and semantic HTML best practices**
+- 📫 How to reach me **tejoshrana@gmail.com**
 
-* Excel fundamentals: key formulas, pivot tables, lookups, date and text functions
-* SQL basics: querying, filtering, joining, aggregations
-* Data concepts: collection, exploration, cleanup, reporting, and visualization
-* Descriptive statistics: distributions, variance, standard deviation, skewness, kurtosis
-* Data visualization principles and charting best practices
-* Python/R libraries for data manipulation (Pandas, dplyr) and visualization (Matplotlib, ggplot2)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/TeaJosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="TeaJosh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Tejosh Rana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tejosh Rana" height="30" width="40" /></a>
+<a href="https://kaggle.com/Dev Duc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Dev Duc" height="30" width="40" /></a>
+</p>
 
-## 🛠️ Skills I'm Actively Developing
-
-* Cleaning and preparing datasets (handling missing values, formatting issues, duplicates)
-* Working with CSV files, APIs, and basic web scraping
-* Understanding distributions and summarizing data
-* Hypothesis testing, correlation analysis, and simple regression
-* Creating effective charts and dashboards
-
-## 📈 Tools and Technologies
-
-* Python (Pandas, NumPy, Matplotlib, Seaborn)
-* R (dplyr, ggplot2)
-* Excel
-* SQL
-* Power BI / Tableau (learning)
-* Jupyter Notebook
-* Git & version control
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
